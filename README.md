@@ -12,3 +12,8 @@ how-to
 3. Run `RunFirst.java`
 4. Update `Main.java` with the tokens obtained from `RunFirst.java`
 5. Modify `Main.java` with desired date, hour, minutes, and workout details as you see fit ... pun intended 
+
+proof
+=====
+
+![Fitbit Dashboard](Fitbit_Dashboard.png)
