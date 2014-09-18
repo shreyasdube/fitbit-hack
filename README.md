@@ -1,7 +1,7 @@
 fitbit-hack
 ===========
 
-Use this to quickly rack up steps through the magic of software (without going outside, ever, or involving any laws of physics)
+Use this to quickly rack up steps through the magic of programming (without going outside, ever, or involving any laws of physics)
 
 
 how-to
